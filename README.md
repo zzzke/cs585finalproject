@@ -1,6 +1,8 @@
 # cs585finalproject
 Program Structure
 The overall design of our program is illustrated in figure1 below:
+Inline-style: 
+![alt text](https://github.com/zzzke/cs585finalproject/blob/master/images/Sfigure1.png)
 
 Initiative and Design
 The design idea of this system can be generally divided into two parts. In the first part we mainly consider those methods that can be used to trace the fingertip of a hand for the top camera. The second part focuses on figuring out a set of algorithms that serve to detect the finger touching result for the side camera. The functions to be implementing for these two parts are illustrated in details below:
